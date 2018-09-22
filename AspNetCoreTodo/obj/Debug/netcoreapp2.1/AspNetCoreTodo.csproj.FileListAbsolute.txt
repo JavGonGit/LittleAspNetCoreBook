@@ -70,3 +70,4 @@ C:\Users\Javier\source\repos\LittleAspNetCoreBook\AspNetCoreTodo\obj\Debug\netco
 C:\Users\Javier\source\repos\LittleAspNetCoreBook\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.dll
 C:\Users\Javier\source\repos\LittleAspNetCoreBook\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.pdb
 C:\Users\Javier\source\repos\LittleAspNetCoreBook\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.csproj.CopyComplete
+C:\Users\Javier\source\repos\LittleAspNetCoreBook\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.csprojAssemblyReference.cache
